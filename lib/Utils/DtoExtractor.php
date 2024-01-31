@@ -80,6 +80,6 @@ class DtoExtractor {
 	public static function buildVariablesDto() {
 		return array(
 			'RUN_NEXTCLOUD_SYNC' => 'true',
-		)
+		);
 	}
 }
